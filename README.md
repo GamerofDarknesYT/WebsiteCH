@@ -1,6 +1,5 @@
 # WebsiteCH
 
 You must download two libraries in python:
-pip install requests
-and
-pip install yaml
+requests and yaml.
+You can download them by using "pip install requests" and "pip install yaml".
