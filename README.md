@@ -1,10 +1,5 @@
+# WebsiteCH
 
-<html>
-  <head>
-    <title>WebsiteCH</title>
-  </head>
-</html>
-  
 ---
 
 You must download two libraries in python:
