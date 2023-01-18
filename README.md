@@ -7,6 +7,6 @@ You must download two libraries in python:
   <li>requests</li>
   <li>yaml</li>
 </ul>
- You can download them by using **pip install requests** and **pip install yaml**.
-a
+ You can download them by using *pip install requests* and *pip install yaml*.
+
 ---
