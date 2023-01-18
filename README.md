@@ -3,6 +3,10 @@
 ---
 
 You must download two libraries in python:
-requests and yaml. You can download them by using "pip install requests" and "pip install yaml".
+<ul>
+  <li>requests</li>
+  <li>yaml</li>
+</ul>
+ You can download them by using "pip install requests" and "pip install yaml".
 
 ---
