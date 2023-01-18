@@ -1,4 +1,3 @@
-# WebsiteCH
 
 <html>
   <head>
@@ -6,8 +5,6 @@
   </head>
 </html>
   
-
-
 ---
 
 You must download two libraries in python:
